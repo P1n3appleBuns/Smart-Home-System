@@ -1,11 +1,4 @@
-/*Hello! My name is Shao Lin Lan.
-  This is my project to make a Smart Lock switch with a servo and ESP32 that lock/unlocks my front door.
-
-  I integrated 2 ESP32 devices to create a Smart system at home. One for my front door lock and another for my room light.
-  The one ESP32 board is connects through my WIFI to my phone using Blynk IoT. The second ESP32 board is connected to the 
-  first through ESP now. Both of the boards are controlled remotely with button presses on the Blynk IoT app.
-
-*/
+/*Smart Lock*/
 
 #define BLYNK_TEMPLATE_ID "TMPL2rOUV5sMB"
 #define BLYNK_TEMPLATE_NAME "ESP32 Smart Lock"
