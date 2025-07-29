@@ -3,9 +3,9 @@ This repository contains the code for my Smart Home System, which I designed to 
 
 The system uses two ESP32 boards working together:
 
--ESP32 (Door Lock): Connects to Wi-Fi and communicates with the Blynk IoT app for remote control.
+&nbsp;-ESP32 (Door Lock): Connects to Wi-Fi and communicates with the Blynk IoT app for remote control.
 
--ESP32 (Room Light): Linked to the first ESP32 via ESP-NOW for seamless local device-to-device communication.
+&nbsp;-ESP32 (Room Light): Linked to the first ESP32 via ESP-NOW for seamless local device-to-device communication.
 
 Both ESP32 boards are connected to servo motors, which serve as the physical mechanisms to lock/unlock the door and switch the light on/off.
 
