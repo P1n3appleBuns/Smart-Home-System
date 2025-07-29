@@ -1,4 +1,4 @@
-# Smart-Home-System
+# Smart Home System
 This repository contains the code for my Smart Home System, which I designed to remotely control my front door lock and bedroom lights.
 
 The system uses two ESP32 boards working together:
