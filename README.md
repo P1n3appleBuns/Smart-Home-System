@@ -10,3 +10,5 @@ The system uses two ESP32 boards working together:
 Both ESP32 boards are connected to servo motors, which serve as the physical mechanisms to lock/unlock the door and switch the light on/off.
 
 Through the Blynk IoT app, I can easily control both devices with simple button presses, providing a convenient, wireless smart home solution.
+
+I decided to do this project because I tend to forget whether I locked my front door when I leave the house and also to control my bedroom light when I am in bed. :)
